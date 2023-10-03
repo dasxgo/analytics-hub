@@ -4,6 +4,9 @@ Data analysis and machine learning
 ## **Contents**
 
 - Sofware industry salary prediction
+- Salary prediction based on Country and Race
+- London housing price analysis
+- Customer personality prefiction to boost marketing campaign
 
 ## **Tools**
 
