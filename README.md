@@ -19,7 +19,7 @@ folders overview:
 
 ## **Local Setup**
 
-### **Instalation**
+### Install
 
 The follow this project, please install the folllowing locally:
 
