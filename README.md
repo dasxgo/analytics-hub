@@ -1,5 +1,5 @@
 # **Overview**
-Explorattory data analysis and machine learning projects.
+Exploratory data analysis and machine learning projects.
 
 ## **Contents**
 
