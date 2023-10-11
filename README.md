@@ -32,7 +32,7 @@ The follow this project, please install the folllowing locally:
   - seaborn 
   - scikit learn
 
-### For install: 
+### For install 
 
 `clone this repository: git clone git@github.com:dasxgo/analytics-hub.git`
 `pip install -r requirements.txt`
