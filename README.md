@@ -21,7 +21,7 @@ folders overview:
 
 ### Install
 
-The follow this project, please install the folllowing locally:
+The follow this project, please install the following locally:
 
 - Jupyter
 - Python
