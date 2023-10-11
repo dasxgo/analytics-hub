@@ -20,6 +20,9 @@ folders overview:
 ## **Local Setup**
 
 ### **Instalation**
+
+The follow this project, please install the folllowing locally:
+
 - Jupyter
 - Python
 - Python packages
