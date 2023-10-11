@@ -1,7 +1,7 @@
 # **Overview**
 This repository contains files, notebooks, and data used for exploratory data analysis and machine learning projects.
 
-## **Contents**
+## Table of Contents
 
 - Sofware industry salary prediction
 - Salary prediction based on Country and Race
@@ -33,7 +33,7 @@ The follow this project, please install the folllowing locally:
   - scikit learn
 
 ### Clone this repository
-git clone git@github.com:dasxgo/analytics-hub.git`
+`git clone git@github.com:dasxgo/analytics-hub.git`
 `pip install -r requirements.txt`
 
 ##  **Data**
