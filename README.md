@@ -1,5 +1,5 @@
 # **Overview**
-Exploratory data analysis and machine learning projects.
+This repository contains files, notebooks, and data used for exploratory data analysis and machine learning projects.
 
 ## **Contents**
 
