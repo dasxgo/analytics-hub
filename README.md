@@ -10,7 +10,7 @@ Projects of Data analysis and machine learning
 
 ## **Code**
 
-You cand fin the code for this project here.
+You can find the code for this project here.
 
 folders overview:
 
