@@ -12,10 +12,10 @@ Projects of Data analysis and machine learning
 
 You cand fin thhe code for this project here.
 
-files overview
+folders overview:
 
-`src folder `
-`notebooks folder`
+`src`
+`notebooks`
 
 ## **Local Setup**
 
