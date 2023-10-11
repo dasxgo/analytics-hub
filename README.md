@@ -22,8 +22,8 @@ folders overview:
 ### **Instalation**
 - Jupyter
 - Python
-- Packages
-    - pandas 
+- Python packages
+  - pandas 
   - numpy
   - matplotlib
   - seaborn 
