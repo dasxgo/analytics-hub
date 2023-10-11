@@ -29,6 +29,10 @@ for install:
 
 EDA and machine learning
 
+##  Data
+
+We'll download all of the data the project, using datasets of kaggle.  
+
 ## **License**
 MIT
 
