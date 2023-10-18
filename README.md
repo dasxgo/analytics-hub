@@ -1,7 +1,7 @@
 # **Overview**
 This repository contains files, notebooks, and data used for exploratory data analysis and machine learning projects.
 
-## Table of Contents
+## Index
 
 - Sofware industry salary prediction
 - Salary prediction based on Country and Race
